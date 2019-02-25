@@ -1,0 +1,7 @@
+D:\ASP.NET CORE\Lesson7\Lesson7.Core\bin\Debug\netstandard2.0\Lesson7.Domain.dll
+D:\ASP.NET CORE\Lesson7\Lesson7.Core\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Hosting.dll
+D:\ASP.NET CORE\Lesson7\Lesson7.Core\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Hosting.xml
+D:\ASP.NET CORE\Lesson7\Lesson7.Core\obj\Debug\netstandard2.0\Lesson7.Core.csprojAssemblyReference.cache
+D:\ASP.NET CORE\Lesson7\Lesson7.Core\obj\Debug\netstandard2.0\Lesson7.Core.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\Lesson7\Lesson7.Core\obj\Debug\netstandard2.0\Lesson7.Core.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\Lesson7\Lesson7.Core\obj\Debug\netstandard2.0\Lesson7.Core.AssemblyInfo.cs
