@@ -37,7 +37,7 @@ namespace Lesson7.Core.Repositories
             return album;
         }
 
-        public async Task<AlbumDto> Create(AlbumDto item)
+        public async Task<AlbumDto> CreateAsync(AlbumDto item)
         {
             var result = _context.Albums.Add(
                 AlbumConverter.Convert(item));
@@ -45,7 +45,7 @@ namespace Lesson7.Core.Repositories
             return AlbumConverter.Convert(result.Entity);
         }
 
-        public async Task<bool> Update(AlbumDto item)
+        public async Task<bool> UpdateAsync(AlbumDto item)
         {
             if (item == null)
                 return false;
@@ -54,7 +54,7 @@ namespace Lesson7.Core.Repositories
             return true;
         }
 
-        public async Task<bool> Delete(Guid id)
+        public async Task<bool> DeleteAsync(Guid id)
         {
             var album = await _context
                 .Albums

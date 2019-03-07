@@ -4333,6 +4333,30 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "Lesson7.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Lesson7.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "2.1.0"
+        },
+        "compile": {
+          "bin/placeholder/Lesson7.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lesson7.Core.dll": {}
+        }
+      },
+      "Lesson7.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Lesson7.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lesson7.Domain.dll": {}
+        }
       }
     }
   },
@@ -11792,10 +11816,22 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "Lesson7.Core/1.0.0": {
+      "type": "project",
+      "path": "../Lesson7.Core/Lesson7.Core.csproj",
+      "msbuildProject": "../Lesson7.Core/Lesson7.Core.csproj"
+    },
+    "Lesson7.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Lesson7.Domain/Lesson7.Domain.csproj",
+      "msbuildProject": "../Lesson7.Domain/Lesson7.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "Lesson7.Core >= 1.0.0",
+      "Lesson7.Domain >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0"
@@ -11830,7 +11866,14 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\ASP.NET CORE\\Lesson7\\Lesson7.Core\\Lesson7.Core.csproj": {
+              "projectPath": "D:\\ASP.NET CORE\\Lesson7\\Lesson7.Core\\Lesson7.Core.csproj"
+            },
+            "D:\\ASP.NET CORE\\Lesson7\\Lesson7.Domain\\Lesson7.Domain.csproj": {
+              "projectPath": "D:\\ASP.NET CORE\\Lesson7\\Lesson7.Domain\\Lesson7.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
