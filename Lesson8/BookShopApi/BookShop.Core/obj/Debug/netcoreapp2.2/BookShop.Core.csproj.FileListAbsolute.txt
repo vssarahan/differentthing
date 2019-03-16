@@ -1,0 +1,5 @@
+D:\ASP.NET CORE\BookShopApi\BookShop.Core\bin\Debug\netcoreapp2.2\BookShop.Data.dll
+D:\ASP.NET CORE\BookShopApi\BookShop.Core\obj\Debug\netcoreapp2.2\BookShop.Core.csprojAssemblyReference.cache
+D:\ASP.NET CORE\BookShopApi\BookShop.Core\obj\Debug\netcoreapp2.2\BookShop.Core.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\BookShopApi\BookShop.Core\obj\Debug\netcoreapp2.2\BookShop.Core.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\BookShopApi\BookShop.Core\obj\Debug\netcoreapp2.2\BookShop.Core.AssemblyInfo.cs
