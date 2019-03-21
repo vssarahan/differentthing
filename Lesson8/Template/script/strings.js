@@ -24,7 +24,7 @@ function createCategoryForm()
             <form name="createForm">
                 <div class="form-group">
                     <label>Название</label>
-                    <input class="form-control" name="title" />
+                    <input id="i_title" class="form-control" name="title" />
                 </div>
             </form>
             <button class="btn btn-outline-success btn-block" id="createCategory">Добавить</button>
