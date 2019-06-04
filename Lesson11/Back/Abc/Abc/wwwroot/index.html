@@ -1,0 +1,77 @@
+﻿<!doctype html>
+ <html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <!--    <script src="https://unpkg.com/@aspnet/signalr@1.1.0/dist/browser/signalr.min.js"></script> -->
+    <script src="js/signalr.min.js"></script>
+
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col bg-dark text-white">
+                <a class="navbar-brand">Chat</a>
+            </div>
+        </div>
+        <div class="row mt-2">   
+            <div class="col-3">
+                <div class="form-group">
+                    <label for="name">Имя</label>
+                    <input class="form-control" name="name" id="name" />
+                </div>
+            </div>
+            
+            <div class="col-9" >
+               <div class="row ml-4 mb-2 d-inline" id="content">  
+               </div>
+               <div class="col-12">
+                     <div class="form-group">
+                         <input class="form-control" name="text" id="text" />
+                     </div>
+                 <button class="btn btn-outline-success btn-block" id="sendMsg">Отправить</button>
+               </div>
+            </div>                                      
+        </div>
+            
+        </div>
+    
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+        let hubUrl = 'http://localhost:5000/chat'; //ссылка, по которому будем обращаться к хабу
+        let connection = new signalR.HubConnectionBuilder()  //строим соединение с хабом
+            .withUrl(hubUrl)                      // в нашем случае будет использована технология web-socket
+            .build();
+
+        //здесь мы задаем функцию, в которую будет отправлять новые данные хаб
+        connection.on('Send', function (name, message) {//первый параметр дублирует имя в методе отсылки хаба
+            // в функции параметры - параметры, которые мы ожидаем получить от хаба
+            $('#content').append(`<div><h4><b>${name}: </b> ${message}</h4></div>`); //вставляем на страницу наши сообщения
+
+        });
+        connection.start(); // с этого момента мы пытаемся наладить соединение
+
+        $('#sendMsg').click(function () { // при клике на кнопку отсылаем сообщение
+            let txt = $('#text').val(); // вытаскиваем текст сообщения
+            let name = $('#name').val(); // вытаскиваем имя
+            $('#text').val(''); // обнуляем текст сообщения
+            $.ajax(
+                {
+                    type: 'POST',
+                    url: 'http://localhost:5000/api/chat/send',
+                    dataType: "json",
+                    contentType: "application/json; charset=utf-8",
+                    data: `{ "text": "${txt}", "name": "${name}" }`,
+                    success: function (data, textStatus) {
+                        console.log(data); //выведем в консоль результат
+                    }
+                });
+        });
+    </script>
+
+
+  </body>
+</html>
