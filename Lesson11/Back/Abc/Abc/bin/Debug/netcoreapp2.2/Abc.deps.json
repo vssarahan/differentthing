@@ -224,7 +224,8 @@
       "Abc.Core/1.0.0": {
         "dependencies": {
           "Abc.Data": "1.0.0",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "2.2.0"
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "2.2.0",
+          "Microsoft.AspNetCore.SignalR": "1.1.0"
         },
         "runtime": {
           "Abc.Core.dll": {}

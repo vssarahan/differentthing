@@ -12145,11 +12145,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\Abc\\Abc\\Abc.csproj",
+      "projectUniqueName": "D:\\ASP.NET CORE\\Lesson11\\Back\\Abc\\Abc\\Abc.csproj",
       "projectName": "Abc",
-      "projectPath": "D:\\projects\\Abc\\Abc\\Abc.csproj",
+      "projectPath": "D:\\ASP.NET CORE\\Lesson11\\Back\\Abc\\Abc\\Abc.csproj",
       "packagesPath": "C:\\Users\\Влад\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\Abc\\Abc\\obj\\",
+      "outputPath": "D:\\ASP.NET CORE\\Lesson11\\Back\\Abc\\Abc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12168,14 +12168,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\projects\\Abc\\Abc.Auth\\Abc.Auth.csproj": {
-              "projectPath": "D:\\projects\\Abc\\Abc.Auth\\Abc.Auth.csproj"
+            "D:\\ASP.NET CORE\\Lesson11\\Back\\Abc\\Abc.Auth\\Abc.Auth.csproj": {
+              "projectPath": "D:\\ASP.NET CORE\\Lesson11\\Back\\Abc\\Abc.Auth\\Abc.Auth.csproj"
             },
-            "D:\\projects\\Abc\\Abc.Core\\Abc.Core.csproj": {
-              "projectPath": "D:\\projects\\Abc\\Abc.Core\\Abc.Core.csproj"
+            "D:\\ASP.NET CORE\\Lesson11\\Back\\Abc\\Abc.Core\\Abc.Core.csproj": {
+              "projectPath": "D:\\ASP.NET CORE\\Lesson11\\Back\\Abc\\Abc.Core\\Abc.Core.csproj"
             },
-            "D:\\projects\\Abc\\Abc.Data\\Abc.Data.csproj": {
-              "projectPath": "D:\\projects\\Abc\\Abc.Data\\Abc.Data.csproj"
+            "D:\\ASP.NET CORE\\Lesson11\\Back\\Abc\\Abc.Data\\Abc.Data.csproj": {
+              "projectPath": "D:\\ASP.NET CORE\\Lesson11\\Back\\Abc\\Abc.Data\\Abc.Data.csproj"
             }
           }
         }

@@ -19,3 +19,24 @@ D:\projects\Abc\Abc\obj\Debug\netcoreapp2.2\Abc.dll
 D:\projects\Abc\Abc\obj\Debug\netcoreapp2.2\Abc.pdb
 D:\projects\Abc\Abc\bin\Debug\netcoreapp2.2\Abc.Auth.dll
 D:\projects\Abc\Abc\bin\Debug\netcoreapp2.2\Abc.Auth.pdb
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\bin\Debug\netcoreapp2.2\Abc.deps.json
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\bin\Debug\netcoreapp2.2\Abc.runtimeconfig.json
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\bin\Debug\netcoreapp2.2\Abc.runtimeconfig.dev.json
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\bin\Debug\netcoreapp2.2\Abc.dll
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\bin\Debug\netcoreapp2.2\Abc.pdb
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\bin\Debug\netcoreapp2.2\Abc.Auth.dll
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\bin\Debug\netcoreapp2.2\Abc.Core.dll
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\bin\Debug\netcoreapp2.2\Abc.Data.dll
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\bin\Debug\netcoreapp2.2\Abc.Auth.pdb
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\bin\Debug\netcoreapp2.2\Abc.Core.pdb
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\bin\Debug\netcoreapp2.2\Abc.Data.pdb
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\obj\Debug\netcoreapp2.2\Abc.csprojAssemblyReference.cache
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\obj\Debug\netcoreapp2.2\Abc.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\obj\Debug\netcoreapp2.2\Abc.RazorAssemblyInfo.cache
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\obj\Debug\netcoreapp2.2\Abc.RazorAssemblyInfo.cs
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\obj\Debug\netcoreapp2.2\Abc.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\obj\Debug\netcoreapp2.2\Abc.AssemblyInfo.cs
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\obj\Debug\netcoreapp2.2\Abc.RazorTargetAssemblyInfo.cache
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\obj\Debug\netcoreapp2.2\Abc.csproj.CopyComplete
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\obj\Debug\netcoreapp2.2\Abc.dll
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc\obj\Debug\netcoreapp2.2\Abc.pdb

@@ -34,6 +34,24 @@ namespace Abc.Configurations
                                 Encoding.ASCII.GetBytes(configuration.GetSection("Key").ToString())),
                             ValidateIssuerSigningKey = true,
                         };
+
+                        options.Events = new JwtBearerEvents
+                        {
+                            OnMessageReceived = context =>
+                            {
+                                var token = context.Request.Query["access_token"];
+
+                                var path = context.Request.Path;
+
+                                if ((!string.IsNullOrEmpty(token)) && 
+                                path.StartsWithSegments("/authchat"))
+                                {
+                                    context.Token = token;
+                                }
+
+                                return Task.CompletedTask;
+                            }
+                        };
                     });
 
             return services;

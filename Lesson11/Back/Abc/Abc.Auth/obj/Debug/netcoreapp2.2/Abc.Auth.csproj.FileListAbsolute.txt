@@ -18,3 +18,23 @@ D:\projects\Abc\Abc.Auth\obj\Debug\netcoreapp2.2\Abc.Auth.AssemblyInfo.cs
 D:\projects\Abc\Abc.Auth\obj\Debug\netcoreapp2.2\Abc.Auth.csproj.CopyComplete
 D:\projects\Abc\Abc.Auth\obj\Debug\netcoreapp2.2\Abc.Auth.dll
 D:\projects\Abc\Abc.Auth\obj\Debug\netcoreapp2.2\Abc.Auth.pdb
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\bin\Debug\netcoreapp2.2\Abc.Auth.deps.json
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\bin\Debug\netcoreapp2.2\Abc.Auth.dll
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\bin\Debug\netcoreapp2.2\Abc.Auth.pdb
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\bin\Debug\netcoreapp2.2\Abc.Core.dll
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\bin\Debug\netcoreapp2.2\Abc.Data.dll
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.dll
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\bin\Debug\netcoreapp2.2\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\bin\Debug\netcoreapp2.2\Abc.Core.pdb
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\bin\Debug\netcoreapp2.2\Abc.Data.pdb
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.pdb
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\bin\Debug\netcoreapp2.2\Microsoft.IdentityModel.Tokens.xml
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\bin\Debug\netcoreapp2.2\System.IdentityModel.Tokens.Jwt.pdb
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\bin\Debug\netcoreapp2.2\System.IdentityModel.Tokens.Jwt.xml
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\obj\Debug\netcoreapp2.2\Abc.Auth.csprojAssemblyReference.cache
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\obj\Debug\netcoreapp2.2\Abc.Auth.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\obj\Debug\netcoreapp2.2\Abc.Auth.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\obj\Debug\netcoreapp2.2\Abc.Auth.AssemblyInfo.cs
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\obj\Debug\netcoreapp2.2\Abc.Auth.csproj.CopyComplete
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\obj\Debug\netcoreapp2.2\Abc.Auth.dll
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Auth\obj\Debug\netcoreapp2.2\Abc.Auth.pdb

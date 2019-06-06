@@ -4584,11 +4584,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\Abc\\Abc.Core\\Abc.Core.csproj",
+      "projectUniqueName": "D:\\ASP.NET CORE\\Lesson11\\Back\\Abc\\Abc.Core\\Abc.Core.csproj",
       "projectName": "Abc.Core",
-      "projectPath": "D:\\projects\\Abc\\Abc.Core\\Abc.Core.csproj",
+      "projectPath": "D:\\ASP.NET CORE\\Lesson11\\Back\\Abc\\Abc.Core\\Abc.Core.csproj",
       "packagesPath": "C:\\Users\\Влад\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\Abc\\Abc.Core\\obj\\",
+      "outputPath": "D:\\ASP.NET CORE\\Lesson11\\Back\\Abc\\Abc.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4607,8 +4607,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\projects\\Abc\\Abc.Data\\Abc.Data.csproj": {
-              "projectPath": "D:\\projects\\Abc\\Abc.Data\\Abc.Data.csproj"
+            "D:\\ASP.NET CORE\\Lesson11\\Back\\Abc\\Abc.Data\\Abc.Data.csproj": {
+              "projectPath": "D:\\ASP.NET CORE\\Lesson11\\Back\\Abc\\Abc.Data\\Abc.Data.csproj"
             }
           }
         }

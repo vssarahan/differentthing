@@ -1163,11 +1163,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\Abc\\Abc.Data\\Abc.Data.csproj",
+      "projectUniqueName": "D:\\ASP.NET CORE\\Lesson11\\Back\\Abc\\Abc.Data\\Abc.Data.csproj",
       "projectName": "Abc.Data",
-      "projectPath": "D:\\projects\\Abc\\Abc.Data\\Abc.Data.csproj",
+      "projectPath": "D:\\ASP.NET CORE\\Lesson11\\Back\\Abc\\Abc.Data\\Abc.Data.csproj",
       "packagesPath": "C:\\Users\\Влад\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\Abc\\Abc.Data\\obj\\",
+      "outputPath": "D:\\ASP.NET CORE\\Lesson11\\Back\\Abc\\Abc.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -48,13 +48,16 @@ namespace Abc
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseStaticFiles();
+
             app.UseCors("AllowAll");
 
             app.UseAuthentication();
 
             app.UseSignalR(routes =>
             {
-                routes.MapHub<ChatHub>("hubs/chat");
+                routes.MapHub<ChatHub>("/chat");
+                routes.MapHub<AuthChatHub>("/authchat");
             });
 
             app.UseMvc();

@@ -10,3 +10,15 @@ D:\projects\Abc\Abc.Core\bin\Debug\netcoreapp2.2\Abc.Data.pdb
 D:\projects\Abc\Abc.Core\obj\Debug\netcoreapp2.2\Abc.Core.csproj.CopyComplete
 D:\projects\Abc\Abc.Core\obj\Debug\netcoreapp2.2\Abc.Core.dll
 D:\projects\Abc\Abc.Core\obj\Debug\netcoreapp2.2\Abc.Core.pdb
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Core\bin\Debug\netcoreapp2.2\Abc.Core.deps.json
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Core\bin\Debug\netcoreapp2.2\Abc.Core.dll
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Core\bin\Debug\netcoreapp2.2\Abc.Core.pdb
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Core\bin\Debug\netcoreapp2.2\Abc.Data.dll
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Core\bin\Debug\netcoreapp2.2\Abc.Data.pdb
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Core\obj\Debug\netcoreapp2.2\Abc.Core.csprojAssemblyReference.cache
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Core\obj\Debug\netcoreapp2.2\Abc.Core.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Core\obj\Debug\netcoreapp2.2\Abc.Core.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Core\obj\Debug\netcoreapp2.2\Abc.Core.AssemblyInfo.cs
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Core\obj\Debug\netcoreapp2.2\Abc.Core.csproj.CopyComplete
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Core\obj\Debug\netcoreapp2.2\Abc.Core.dll
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Core\obj\Debug\netcoreapp2.2\Abc.Core.pdb

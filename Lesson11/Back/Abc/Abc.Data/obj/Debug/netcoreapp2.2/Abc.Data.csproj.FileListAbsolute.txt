@@ -7,3 +7,12 @@ D:\projects\Abc\Abc.Data\obj\Debug\netcoreapp2.2\Abc.Data.AssemblyInfo.cs
 D:\projects\Abc\Abc.Data\bin\Debug\netcoreapp2.2\Abc.Data.pdb
 D:\projects\Abc\Abc.Data\obj\Debug\netcoreapp2.2\Abc.Data.dll
 D:\projects\Abc\Abc.Data\obj\Debug\netcoreapp2.2\Abc.Data.pdb
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Data\bin\Debug\netcoreapp2.2\Abc.Data.deps.json
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Data\bin\Debug\netcoreapp2.2\Abc.Data.dll
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Data\bin\Debug\netcoreapp2.2\Abc.Data.pdb
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Data\obj\Debug\netcoreapp2.2\Abc.Data.csprojAssemblyReference.cache
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Data\obj\Debug\netcoreapp2.2\Abc.Data.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Data\obj\Debug\netcoreapp2.2\Abc.Data.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Data\obj\Debug\netcoreapp2.2\Abc.Data.AssemblyInfo.cs
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Data\obj\Debug\netcoreapp2.2\Abc.Data.dll
+D:\ASP.NET CORE\Lesson11\Back\Abc\Abc.Data\obj\Debug\netcoreapp2.2\Abc.Data.pdb
